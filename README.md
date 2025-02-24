@@ -14,6 +14,7 @@ Hi, I'm Ninthless, a developer with a passion for programming and open source. I
 
 - Personal Website: [https://ninthless.com](https://ninthless.com)
 - Twitter：[@Ninthless](https://twitter.com/Ninthless)
+- QQ: 3124495484
 
 ## My GitHub stats 我的 GitHub 统计
 
