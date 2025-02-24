@@ -8,10 +8,10 @@ Hi, I'm Ninthless, a developer with a passion for programming and open source. I
 
 
 **Frontend:** Vue、React、Java、Kotlin、JavaScript
-**前端：** Vue、React、Java、Kotlin、JavaScript
+ **前端：** Vue、React、Java、Kotlin、JavaScript
 
 **Backend:** Java、Kotlin
-**后端：** Java、Kotlin
+ **后端：** Java、Kotlin
 
 ## Contact Me 联系我
 
