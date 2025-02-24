@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @c9cn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 欢迎来到我的 GitHub 主页！
 
-<!---
-c9cn/c9cn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+这里是我的一些动态统计信息：
+
+![我的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=Ninthless&show_icons=true&theme=radical)
