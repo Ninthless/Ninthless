@@ -12,15 +12,13 @@ Hi, I'm Ninthless, a developer with a passion for programming and open source. I
 **Backend:** Java、Kotlin
 **后端：** Java、Kotlin
 
-## Contact Me
-## 联系我
+## Contact Me 联系我
 
 - Personal Website: [https://ninthless.com](https://ninthless.com)
 - 个人网站：[https://ninthless.com](https://ninthless.com)
 
 - Twitter：[@Ninthless](https://twitter.com/Ninthless)
 
-## My GitHub stats
-## 我的 GitHub 统计
+## My GitHub stats 我的 GitHub 统计
 
 ![我的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=Ninthless&show_icons=true&theme=radical)
