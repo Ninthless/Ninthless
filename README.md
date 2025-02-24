@@ -6,12 +6,9 @@ Hi, I'm Ninthless, a developer with a passion for programming and open source. I
 
 您好，我是 Ninthless，一名热衷于编程和开源的开发者。我主要使用以下技术栈：
 
-
 **Frontend:** Vue、React、Java、Kotlin、JavaScript
- **前端：** Vue、React、Java、Kotlin、JavaScript
 
 **Backend:** Java、Kotlin
- **后端：** Java、Kotlin
 
 ## Contact Me 联系我
 
