@@ -12,7 +12,6 @@ Hi, I'm Ninthless, a developer with a passion for programming and open source. I
 
 ## Contact Me 联系我
 
-- **Twitter**：[@Ninthless](https://twitter.com/Ninthless)
 - **QQ**: 3124495484
 - **Email**: [ninthless.me@outlook.com]
 
