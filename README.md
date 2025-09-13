@@ -18,9 +18,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ninthless/ninthless/output/snake.svg" alt="Snake animation" />
-
-###
