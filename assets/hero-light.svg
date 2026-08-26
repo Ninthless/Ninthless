@@ -1,0 +1,57 @@
+<svg width="960" height="340" viewBox="0 0 960 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Ninthless</title>
+<desc id="desc">Independent tool builder working on AI-native developer infrastructure, desktop software, and practical automation.</desc>
+<defs>
+  <linearGradient id="panel" x1="50" y1="20" x2="910" y2="320" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#FFFFFF"/>
+    <stop offset="1" stop-color="#F4F7F6"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="96" y1="88" x2="455" y2="232" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#56492E"/>
+    <stop offset="0.52" stop-color="#8A7040"/>
+    <stop offset="1" stop-color="#167E68"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(764 141) rotate(132.178) scale(204 244)">
+    <stop stop-color="#67C9AE" stop-opacity=".22"/>
+    <stop offset="1" stop-color="#F4F7F6" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="5"/>
+  </filter>
+</defs>
+<rect x="1" y="1" width="958" height="338" rx="27" fill="url(#panel)" stroke="#D1D9D7" stroke-width="2"/>
+<rect x="2" y="2" width="956" height="336" rx="26" fill="url(#glow)"/>
+<path d="M31 72V45C31 37.268 37.268 31 45 31H72" stroke="#9D824D" stroke-width="2"/>
+<path d="M888 309H915C922.732 309 929 302.732 929 295V268" stroke="#9AA9A5" stroke-width="2"/>
+<circle cx="47" cy="47" r="4" fill="#198B73"/>
+<text x="82" y="58" fill="#687772" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3">INDEPENDENT TOOL BUILDER</text>
+<text x="82" y="137" fill="url(#accent)" font-family="'Segoe UI', Arial, sans-serif" font-size="66" font-weight="750" letter-spacing="-2">NINTHLESS</text>
+<text x="84" y="181" fill="#18211F" font-family="'Segoe UI', Arial, sans-serif" font-size="23" font-weight="500">Tools for AI-native development.</text>
+<text x="84" y="222" fill="#596864" font-family="'Segoe UI', Arial, sans-serif" font-size="16">
+  <tspan x="84" dy="0">Developer infrastructure, focused desktop software,</tspan>
+  <tspan x="84" dy="25">and practical automation shaped by real workflow friction.</tspan>
+</text>
+<g transform="translate(84 282)">
+  <rect width="104" height="29" rx="14.5" fill="#F0F4F3" stroke="#C8D2CF"/>
+  <circle cx="17" cy="14.5" r="3.5" fill="#198B73"/>
+  <text x="62" y="19" text-anchor="middle" fill="#34423E" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" letter-spacing=".7">BUILDING</text>
+  <rect x="116" width="104" height="29" rx="14.5" fill="#F0F4F3" stroke="#C8D2CF"/>
+  <circle cx="133" cy="14.5" r="3.5" fill="#9D824D"/>
+  <text x="178" y="19" text-anchor="middle" fill="#34423E" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" letter-spacing=".7">SHIPPING</text>
+</g>
+<g opacity=".95">
+  <path d="M642 109L727 72L816 118L842 211L755 263L663 221L642 109Z" stroke="#B6C3BF" stroke-width="1.5"/>
+  <path d="M727 72L755 263M642 109L842 211M816 118L663 221" stroke="#D5DDDB" stroke-width="1"/>
+  <path d="M727 72L816 118L755 160L642 109L663 221L755 263L842 211L755 160" stroke="#679789" stroke-width="1.5"/>
+  <path d="M727 72L755 160L755 263" stroke="#9D824D" stroke-width="1.5"/>
+  <circle cx="727" cy="72" r="7" fill="#F8FAF9" stroke="#9D824D" stroke-width="2"/>
+  <circle cx="642" cy="109" r="6" fill="#F8FAF9" stroke="#82918D" stroke-width="2"/>
+  <circle cx="816" cy="118" r="6" fill="#F8FAF9" stroke="#198B73" stroke-width="2"/>
+  <circle cx="755" cy="160" r="9" fill="#198B73" fill-opacity=".16" stroke="#198B73" stroke-width="2"/>
+  <circle cx="755" cy="160" r="17" fill="#198B73" fill-opacity=".12" filter="url(#softGlow)"/>
+  <circle cx="663" cy="221" r="6" fill="#F8FAF9" stroke="#82918D" stroke-width="2"/>
+  <circle cx="842" cy="211" r="6" fill="#F8FAF9" stroke="#9D824D" stroke-width="2"/>
+  <circle cx="755" cy="263" r="7" fill="#F8FAF9" stroke="#198B73" stroke-width="2"/>
+  <text x="682" y="44" fill="#82918D" font-family="'Cascadia Mono', Consolas, monospace" font-size="11" letter-spacing="1">ROUTE / BUILD / REFINE</text>
+</g>
+</svg>
