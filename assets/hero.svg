@@ -32,12 +32,12 @@
   <tspan x="84" dy="25">and practical automation shaped by real workflow friction.</tspan>
 </text>
 <g transform="translate(84 282)">
-  <rect width="88" height="29" rx="14.5" fill="#171C23" stroke="#343C47"/>
-  <circle cx="16" cy="14.5" r="3.5" fill="#7EE6C4"/>
-  <text x="27" y="19" fill="#CCD3DA" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1">BUILDING</text>
-  <rect x="99" width="88" height="29" rx="14.5" fill="#171C23" stroke="#343C47"/>
-  <circle cx="115" cy="14.5" r="3.5" fill="#C6B37F"/>
-  <text x="126" y="19" fill="#CCD3DA" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1">SHIPPING</text>
+  <rect width="104" height="29" rx="14.5" fill="#171C23" stroke="#343C47"/>
+  <circle cx="17" cy="14.5" r="3.5" fill="#7EE6C4"/>
+  <text x="62" y="19" text-anchor="middle" fill="#CCD3DA" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" letter-spacing=".7">BUILDING</text>
+  <rect x="116" width="104" height="29" rx="14.5" fill="#171C23" stroke="#343C47"/>
+  <circle cx="133" cy="14.5" r="3.5" fill="#C6B37F"/>
+  <text x="178" y="19" text-anchor="middle" fill="#CCD3DA" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" letter-spacing=".7">SHIPPING</text>
 </g>
 <g opacity=".95">
   <path d="M642 109L727 72L816 118L842 211L755 263L663 221L642 109Z" stroke="#34444A" stroke-width="1.5"/>
