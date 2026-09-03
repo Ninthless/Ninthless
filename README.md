@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;section=header&amp;text=Ninthless&amp;fontSize=72&amp;fontAlignY=35&amp;desc=Independent%20tool%20builder&amp;descSize=20&amp;descAlignY=58&amp;color=0:1E1B4B,50:5B21B6,100:06B6D4&amp;fontColor=F8FAFC&amp;animation=fadeIn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;section=header&amp;text=Ninthless&amp;fontSize=72&amp;fontAlignY=35&amp;desc=Independent%20tool%20builder&amp;descSize=20&amp;descAlignY=58&amp;color=0:EEF2FF,50:C7D2FE,100:818CF8&amp;fontColor=1E1B4B&amp;animation=fadeIn" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;section=header&amp;text=Ninthless&amp;fontSize=72&amp;fontAlignY=35&amp;desc=Independent%20tool%20builder&amp;descSize=20&amp;descAlignY=58&amp;color=0:EEF2FF,50:C7D2FE,100:818CF8&amp;fontColor=1E1B4B&amp;animation=fadeIn" width="100%" alt="Ninthless" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;section=header&amp;text=Ninthless&amp;fontSize=72&amp;fontAlignY=35&amp;desc=Independent%20tool%20builder&amp;descSize=20&amp;descAlignY=58&amp;color=7C3AED&amp;fontColor=FFFFFF&amp;animation=fadeIn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;section=header&amp;text=Ninthless&amp;fontSize=72&amp;fontAlignY=35&amp;desc=Independent%20tool%20builder&amp;descSize=20&amp;descAlignY=58&amp;color=A5B4FC&amp;fontColor=1E1B4B&amp;animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;section=header&amp;text=Ninthless&amp;fontSize=72&amp;fontAlignY=35&amp;desc=Independent%20tool%20builder&amp;descSize=20&amp;descAlignY=58&amp;color=A5B4FC&amp;fontColor=1E1B4B&amp;animation=fadeIn" width="100%" alt="Ninthless" />
   </picture>
 </p>
 
@@ -44,21 +44,21 @@ Most of the public work is small, focused software: provider routing for coding 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,py,ts,js,java,kotlin,cs,dart,go&amp;theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust%2Cpy%2Cts%2Cjs%2Cjava%2Ckotlin%2Ccs%2Cdart%2Cgo&amp;theme=dark" />
     <img src="https://skillicons.dev/icons?i=rust,py,ts,js,java,kotlin,cs,dart,go&amp;theme=light" alt="Languages" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tauri,electron,flutter,react,vue,fastapi,spring,docker,postgres,dotnet&amp;theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tauri%2Celectron%2Cflutter%2Creact%2Cvue%2Cfastapi%2Cspring%2Cdocker%2Cpostgres%2Cdotnet&amp;theme=dark" />
     <img src="https://skillicons.dev/icons?i=tauri,electron,flutter,react,vue,fastapi,spring,docker,postgres,dotnet&amp;theme=light" alt="Frameworks and platforms" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,windows,linux,vscode,visualstudio,idea,postman,powershell&amp;theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cgithubactions%2Cwindows%2Clinux%2Cvscode%2Cvisualstudio%2Cidea%2Cpostman%2Cpowershell&amp;theme=dark" />
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,windows,linux,vscode,visualstudio,idea,postman,powershell&amp;theme=light" alt="Tools" />
   </picture>
 </p>
@@ -175,8 +175,8 @@ Also: [Postman-Web-i18n](https://github.com/Ninthless/Postman-Web-i18n) · [clas
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:06B6D4,50:5B21B6,100:1E1B4B" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:06B6D4,50:C7D2FE,100:EEF2FF" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:06B6D4,50:C7D2FE,100:EEF2FF" width="100%" alt="" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=06B6D4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=A5B4FC" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=A5B4FC" width="100%" alt="" />
   </picture>
 </p>
