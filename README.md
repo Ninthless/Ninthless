@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-    <img src="./assets/hero-light.svg" width="100%" alt="Ninthless — independent tool builder working on AI-native developer infrastructure, desktop software, and practical automation" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.png">
+    <img src="./assets/hero-light.png" width="100%" alt="Ninthless — independent tool builder working on AI-native developer infrastructure, desktop software, and practical automation" />
   </picture>
 </p>
 
