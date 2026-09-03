@@ -1,22 +1,22 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Ninthless&fontSize=72&fontAlignY=35&desc=Independent%20tool%20builder&descSize=20&descAlignY=58&color=0:0B0E12,50:163A34,100:167E68&fontColor=F2F0E9&animation=fadeIn" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Ninthless&fontSize=72&fontAlignY=35&desc=Independent%20tool%20builder&descSize=20&descAlignY=58&color=0:F7FAF8,50:D7EDE6,100:167E68&fontColor=18211F&animation=fadeIn" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Ninthless&fontSize=72&fontAlignY=35&desc=Independent%20tool%20builder&descSize=20&descAlignY=58&color=0:F7FAF8,50:D7EDE6,100:167E68&fontColor=18211F&animation=fadeIn" width="100%" alt="Ninthless" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;section=header&amp;text=Ninthless&amp;fontSize=72&amp;fontAlignY=35&amp;desc=Independent%20tool%20builder&amp;descSize=20&amp;descAlignY=58&amp;color=0:1E1B4B,50:5B21B6,100:06B6D4&amp;fontColor=F8FAFC&amp;animation=fadeIn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;section=header&amp;text=Ninthless&amp;fontSize=72&amp;fontAlignY=35&amp;desc=Independent%20tool%20builder&amp;descSize=20&amp;descAlignY=58&amp;color=0:EEF2FF,50:C7D2FE,100:818CF8&amp;fontColor=1E1B4B&amp;animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;section=header&amp;text=Ninthless&amp;fontSize=72&amp;fontAlignY=35&amp;desc=Independent%20tool%20builder&amp;descSize=20&amp;descAlignY=58&amp;color=0:EEF2FF,50:C7D2FE,100:818CF8&amp;fontColor=1E1B4B&amp;animation=fadeIn" width="100%" alt="Ninthless" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ninthless&label=Profile%20views&color=167E68&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/Ninthless?tab=repositories"><img src="https://img.shields.io/badge/public%20repos-42-11151B?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" /></a>
-  <a href="https://github.com/Ninthless/StackFerry"><img src="https://img.shields.io/github/stars/Ninthless/StackFerry?style=for-the-badge&logo=rust&logoColor=white&color=C6B37F&label=StackFerry" alt="StackFerry stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Ninthless&amp;label=Profile%20views&amp;color=7C3AED&amp;style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/Ninthless?tab=repositories"><img src="https://img.shields.io/badge/public%20repos-42-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Public repositories" /></a>
+  <a href="https://github.com/Ninthless/StackFerry"><img src="https://img.shields.io/github/stars/Ninthless/StackFerry?style=for-the-badge&amp;logo=rust&amp;logoColor=white&amp;color=06B6D4&amp;label=StackFerry" alt="StackFerry stars" /></a>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7EE6C4&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+c9+%2F+Ninthless;I+build+AI+tools+and+system+utilities;Desktop+software+shaped+by+real+friction;Currently+building+StackFerry" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=167E68&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+c9+%2F+Ninthless;I+build+AI+tools+and+system+utilities;Desktop+software+shaped+by+real+friction;Currently+building+StackFerry" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=167E68&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+c9+%2F+Ninthless;I+build+AI+tools+and+system+utilities;Desktop+software+shaped+by+real+friction;Currently+building+StackFerry" alt="Typing tagline" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Hi%2C+I'm+c9+%2F+Ninthless;I+build+AI+tools+and+system+utilities;Desktop+software+shaped+by+real+friction;Currently+building+StackFerry" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=5B21B6&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Hi%2C+I'm+c9+%2F+Ninthless;I+build+AI+tools+and+system+utilities;Desktop+software+shaped+by+real+friction;Currently+building+StackFerry" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=5B21B6&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Hi%2C+I'm+c9+%2F+Ninthless;I+build+AI+tools+and+system+utilities;Desktop+software+shaped+by+real+friction;Currently+building+StackFerry" alt="Typing tagline" />
   </picture>
 </p>
 
@@ -33,9 +33,9 @@ Most of the public work is small, focused software: provider routing for coding 
 - Shipping desktop and systems tools when a real friction shows up
 
 <p align="center">
-  <a href="https://github.com/Ninthless"><img src="https://img.shields.io/badge/GitHub-Ninthless-11151B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://ninthless.github.io/"><img src="https://img.shields.io/badge/Blog-ninthless.github.io-167E68?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" /></a>
-  <a href="https://github.com/Ninthless?tab=repositories"><img src="https://img.shields.io/badge/All%20projects-explore-8A7040?style=for-the-badge" alt="All projects" /></a>
+  <a href="https://github.com/Ninthless"><img src="https://img.shields.io/badge/GitHub-Ninthless-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://ninthless.github.io/"><img src="https://img.shields.io/badge/Blog-ninthless.github.io-7C3AED?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Blog" /></a>
+  <a href="https://github.com/Ninthless?tab=repositories"><img src="https://img.shields.io/badge/All%20projects-explore-06B6D4?style=for-the-badge" alt="All projects" /></a>
 </p>
 
 ---
@@ -44,22 +44,22 @@ Most of the public work is small, focused software: provider routing for coding 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,py,ts,js,java,kotlin,cs,dart,go&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=rust,py,ts,js,java,kotlin,cs,dart,go&theme=light" alt="Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,py,ts,js,java,kotlin,cs,dart,go&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=rust,py,ts,js,java,kotlin,cs,dart,go&amp;theme=light" alt="Languages" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tauri,electron,flutter,react,vue,fastapi,spring,docker,postgres,dotnet&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=tauri,electron,flutter,react,vue,fastapi,spring,docker,postgres,dotnet&theme=light" alt="Frameworks and platforms" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tauri,electron,flutter,react,vue,fastapi,spring,docker,postgres,dotnet&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=tauri,electron,flutter,react,vue,fastapi,spring,docker,postgres,dotnet&amp;theme=light" alt="Frameworks and platforms" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,windows,linux,vscode,visualstudio,idea,postman,powershell&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,windows,linux,vscode,visualstudio,idea,postman,powershell&theme=light" alt="Tools" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,windows,linux,vscode,visualstudio,idea,postman,powershell&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,windows,linux,vscode,visualstudio,idea,postman,powershell&amp;theme=light" alt="Tools" />
   </picture>
 </p>
 
@@ -72,16 +72,16 @@ Most of the public work is small, focused software: provider routing for coding 
     <td width="50%" valign="top">
       <a href="https://github.com/Ninthless/StackFerry">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.work/api/pin/?username=Ninthless&repo=StackFerry&hide_border=true&theme=transparent&title_color=C6B37F&icon_color=7EE6C4&text_color=C9D1D9" />
-          <img src="https://gh-stats.work/api/pin/?username=Ninthless&repo=StackFerry&hide_border=true&theme=transparent&title_color=8A7040&icon_color=167E68&text_color=24292F" alt="StackFerry" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.work/api/pin/?username=Ninthless&amp;repo=StackFerry&amp;hide_border=true&amp;theme=transparent&amp;title_color=A78BFA&amp;icon_color=67E8F9&amp;text_color=E2E8F0" />
+          <img src="https://gh-stats.work/api/pin/?username=Ninthless&amp;repo=StackFerry&amp;hide_border=true&amp;theme=transparent&amp;title_color=5B21B6&amp;icon_color=0891B2&amp;text_color=1E293B" alt="StackFerry" />
         </picture>
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Ninthless/agent-skills">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.work/api/pin/?username=Ninthless&repo=agent-skills&hide_border=true&theme=transparent&title_color=C6B37F&icon_color=7EE6C4&text_color=C9D1D9" />
-          <img src="https://gh-stats.work/api/pin/?username=Ninthless&repo=agent-skills&hide_border=true&theme=transparent&title_color=8A7040&icon_color=167E68&text_color=24292F" alt="agent-skills" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.work/api/pin/?username=Ninthless&amp;repo=agent-skills&amp;hide_border=true&amp;theme=transparent&amp;title_color=A78BFA&amp;icon_color=67E8F9&amp;text_color=E2E8F0" />
+          <img src="https://gh-stats.work/api/pin/?username=Ninthless&amp;repo=agent-skills&amp;hide_border=true&amp;theme=transparent&amp;title_color=5B21B6&amp;icon_color=0891B2&amp;text_color=1E293B" alt="agent-skills" />
         </picture>
       </a>
     </td>
@@ -90,16 +90,16 @@ Most of the public work is small, focused software: provider routing for coding 
     <td width="50%" valign="top">
       <a href="https://github.com/Ninthless/llm-gateway-lite">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.work/api/pin/?username=Ninthless&repo=llm-gateway-lite&hide_border=true&theme=transparent&title_color=C6B37F&icon_color=7EE6C4&text_color=C9D1D9" />
-          <img src="https://gh-stats.work/api/pin/?username=Ninthless&repo=llm-gateway-lite&hide_border=true&theme=transparent&title_color=8A7040&icon_color=167E68&text_color=24292F" alt="llm-gateway-lite" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.work/api/pin/?username=Ninthless&amp;repo=llm-gateway-lite&amp;hide_border=true&amp;theme=transparent&amp;title_color=A78BFA&amp;icon_color=67E8F9&amp;text_color=E2E8F0" />
+          <img src="https://gh-stats.work/api/pin/?username=Ninthless&amp;repo=llm-gateway-lite&amp;hide_border=true&amp;theme=transparent&amp;title_color=5B21B6&amp;icon_color=0891B2&amp;text_color=1E293B" alt="llm-gateway-lite" />
         </picture>
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Ninthless/clash-arc">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.work/api/pin/?username=Ninthless&repo=clash-arc&hide_border=true&theme=transparent&title_color=C6B37F&icon_color=7EE6C4&text_color=C9D1D9" />
-          <img src="https://gh-stats.work/api/pin/?username=Ninthless&repo=clash-arc&hide_border=true&theme=transparent&title_color=8A7040&icon_color=167E68&text_color=24292F" alt="clash-arc" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.work/api/pin/?username=Ninthless&amp;repo=clash-arc&amp;hide_border=true&amp;theme=transparent&amp;title_color=A78BFA&amp;icon_color=67E8F9&amp;text_color=E2E8F0" />
+          <img src="https://gh-stats.work/api/pin/?username=Ninthless&amp;repo=clash-arc&amp;hide_border=true&amp;theme=transparent&amp;title_color=5B21B6&amp;icon_color=0891B2&amp;text_color=1E293B" alt="clash-arc" />
         </picture>
       </a>
     </td>
@@ -108,16 +108,16 @@ Most of the public work is small, focused software: provider routing for coding 
     <td width="50%" valign="top">
       <a href="https://github.com/Ninthless/ACEOptimizer">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.work/api/pin/?username=Ninthless&repo=ACEOptimizer&hide_border=true&theme=transparent&title_color=C6B37F&icon_color=7EE6C4&text_color=C9D1D9" />
-          <img src="https://gh-stats.work/api/pin/?username=Ninthless&repo=ACEOptimizer&hide_border=true&theme=transparent&title_color=8A7040&icon_color=167E68&text_color=24292F" alt="ACEOptimizer" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.work/api/pin/?username=Ninthless&amp;repo=ACEOptimizer&amp;hide_border=true&amp;theme=transparent&amp;title_color=A78BFA&amp;icon_color=67E8F9&amp;text_color=E2E8F0" />
+          <img src="https://gh-stats.work/api/pin/?username=Ninthless&amp;repo=ACEOptimizer&amp;hide_border=true&amp;theme=transparent&amp;title_color=5B21B6&amp;icon_color=0891B2&amp;text_color=1E293B" alt="ACEOptimizer" />
         </picture>
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Ninthless/Tau-gui">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.work/api/pin/?username=Ninthless&repo=Tau-gui&hide_border=true&theme=transparent&title_color=C6B37F&icon_color=7EE6C4&text_color=C9D1D9" />
-          <img src="https://gh-stats.work/api/pin/?username=Ninthless&repo=Tau-gui&hide_border=true&theme=transparent&title_color=8A7040&icon_color=167E68&text_color=24292F" alt="Tau-gui" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.work/api/pin/?username=Ninthless&amp;repo=Tau-gui&amp;hide_border=true&amp;theme=transparent&amp;title_color=A78BFA&amp;icon_color=67E8F9&amp;text_color=E2E8F0" />
+          <img src="https://gh-stats.work/api/pin/?username=Ninthless&amp;repo=Tau-gui&amp;hide_border=true&amp;theme=transparent&amp;title_color=5B21B6&amp;icon_color=0891B2&amp;text_color=1E293B" alt="Tau-gui" />
         </picture>
       </a>
     </td>
@@ -132,22 +132,22 @@ Also: [Postman-Web-i18n](https://github.com/Ninthless/Postman-Web-i18n) · [clas
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.work/api?username=Ninthless&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&title_color=C6B37F&icon_color=7EE6C4&text_color=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.work/api?username=Ninthless&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&title_color=8A7040&icon_color=167E68&text_color=24292F" />
-    <img src="https://gh-stats.work/api?username=Ninthless&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&title_color=8A7040&icon_color=167E68&text_color=24292F" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.work/api?username=Ninthless&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;theme=transparent&amp;title_color=A78BFA&amp;icon_color=67E8F9&amp;text_color=E2E8F0" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.work/api?username=Ninthless&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;theme=transparent&amp;title_color=5B21B6&amp;icon_color=0891B2&amp;text_color=1E293B" />
+    <img src="https://gh-stats.work/api?username=Ninthless&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;theme=transparent&amp;title_color=5B21B6&amp;icon_color=0891B2&amp;text_color=1E293B" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.work/api/top-langs/?username=Ninthless&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=C6B37F&text_color=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.work/api/top-langs/?username=Ninthless&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=8A7040&text_color=24292F" />
-    <img src="https://gh-stats.work/api/top-langs/?username=Ninthless&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=8A7040&text_color=24292F" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.work/api/top-langs/?username=Ninthless&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;theme=transparent&amp;title_color=A78BFA&amp;text_color=E2E8F0" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.work/api/top-langs/?username=Ninthless&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;theme=transparent&amp;title_color=5B21B6&amp;text_color=1E293B" />
+    <img src="https://gh-stats.work/api/top-langs/?username=Ninthless&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;theme=transparent&amp;title_color=5B21B6&amp;text_color=1E293B" alt="Top languages" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Ninthless&theme=transparent&hide_border=true&ring=7EE6C4&fire=C6B37F&currStreakLabel=C6B37F&sideLabels=C9D1D9&dates=84909E" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Ninthless&theme=transparent&hide_border=true&ring=167E68&fire=8A7040&currStreakLabel=8A7040" />
-    <img src="https://streak-stats.demolab.com/?user=Ninthless&theme=transparent&hide_border=true&ring=167E68&fire=8A7040&currStreakLabel=8A7040" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Ninthless&amp;theme=transparent&amp;hide_border=true&amp;ring=67E8F9&amp;fire=A78BFA&amp;currStreakLabel=A78BFA&amp;sideLabels=E2E8F0&amp;dates=94A3B8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Ninthless&amp;theme=transparent&amp;hide_border=true&amp;ring=5B21B6&amp;fire=0891B2&amp;currStreakLabel=5B21B6" />
+    <img src="https://streak-stats.demolab.com/?user=Ninthless&amp;theme=transparent&amp;hide_border=true&amp;ring=5B21B6&amp;fire=0891B2&amp;currStreakLabel=5B21B6" alt="GitHub streak" />
   </picture>
 </p>
 
@@ -175,8 +175,8 @@ Also: [Postman-Web-i18n](https://github.com/Ninthless/Postman-Web-i18n) · [clas
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:167E68,50:163A34,100:0B0E12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:167E68,50:D7EDE6,100:F7FAF8" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:167E68,50:D7EDE6,100:F7FAF8" width="100%" alt="" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:06B6D4,50:5B21B6,100:1E1B4B" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:06B6D4,50:C7D2FE,100:EEF2FF" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:06B6D4,50:C7D2FE,100:EEF2FF" width="100%" alt="" />
   </picture>
 </p>
